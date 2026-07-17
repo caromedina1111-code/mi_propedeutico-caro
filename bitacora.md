@@ -5,3 +5,4 @@
 Hoy creé mi primer repositorio y aprendí el ciclo
 editar → add → commit → push.
 Publiqué mi primer repositorio
+Termine mi primera tarea
